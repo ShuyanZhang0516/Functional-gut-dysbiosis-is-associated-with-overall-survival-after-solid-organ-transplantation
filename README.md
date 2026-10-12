@@ -40,10 +40,10 @@ Codes for the project "Functional gut dysbiosis is associated with overall survi
                   Functional profiles
                             │
              ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-       D. Dysbiosis    E. Medication    F. Mortality
-           score          regimen          analysis
-             │              │              │
+             ▼                             ▼
+       D. Dysbiosis                   E. Mortality
+           score                         analysis
+             │                             │
              └──────────────┼──────────────┘
                             ▼
                     Results & Figures 
